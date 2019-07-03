@@ -1,0 +1,12 @@
+/* line 2, public/scss/_header.scss */
+header h1 {
+  color: red; }
+
+/* line 5, public/scss/_header.scss */
+header img {
+  height: 100px;
+  width: 100px; }
+
+/* line 2, public/scss/_footer.scss */
+footer h5 {
+  color: green; }
